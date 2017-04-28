@@ -5,6 +5,7 @@
 // @author Eric Tanaka
 // @include http:*
 // @include https:*
+// @downloadURL https://raw.githubusercontent.com/cirept/seoScrapper/master/seoScrapper-meta.js
 // @require https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
 // @require https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js
 // @require https://raw.githubusercontent.com/cirept/seoScrapper/master/main-release.js
