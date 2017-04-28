@@ -1,9 +1,9 @@
 # seoScrapper
 
-## How to Install Launch Toolbar
+## How to Install SEO Scrapper Tool
 
 1. Open this link in a new tab (ctrl+click the link)<br>
-[latest Tampermonkey Code Here](https://raw.githubusercontent.com/cirept/salesforceToolbar/master/launchToolbar_meta.js)
+[latest Tampermonkey Code Here](https://raw.githubusercontent.com/cirept/seoScrapper/master/seoScrapper-meta.js)
 
 2. Copy all the code that appears
 
@@ -19,8 +19,6 @@
 7. Save the code
 
 8. Tool is ready for use!
-
-9. **Please Read '[Email Function](#email-function)' and '[Log a Chat / Call](#log-a-chat--call)'**
 
 ---
 
