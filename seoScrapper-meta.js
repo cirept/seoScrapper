@@ -8,7 +8,7 @@
 // @downloadURL https://raw.githubusercontent.com/cirept/seoScrapper/master/seoScrapper-meta.js
 // @require https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
 // @require https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js
-// @require https://raw.githubusercontent.com/cirept/seoScrapper/master/main-release.js
+// @require https://raw.githubusercontent.com/cirept/seoScrapper/v1.0/main-release.js
 // @resource fontAwe https://use.fontawesome.com/3953f47d82.js
 // @resource font https://fonts.googleapis.com/css?family=Montserrat
 // @resource jqueryUI https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css
