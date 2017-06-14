@@ -1,5 +1,7 @@
 # seoScrapper
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0ef715d24706442b9795249875d829a0)](https://www.codacy.com/app/cirept612/seoScrapper?utm_source=github.com&utm_medium=referral&utm_content=cirept/seoScrapper&utm_campaign=badger)
+
 ## How to Install SEO Scrapper Tool
 
 1. Open this link in a new tab (ctrl+click the link)<br>
